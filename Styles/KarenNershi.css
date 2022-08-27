@@ -96,6 +96,14 @@ html, body, {
     margin: 0 auto;
 }
 
+
+#imgPhotosub
+{
+    width: 75%;
+    border-radius: 25%;
+    margin: 0 auto;
+}
+
 .Credentials
 {
     font-size: 15px;
