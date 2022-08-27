@@ -90,6 +90,14 @@ html, body, {
     width: 40%;
 }
 
+#imgPhoto
+{
+    border-radius: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .Credentials
 {
     font-size: 15px;
