@@ -96,6 +96,11 @@ html, body, {
     margin: 0 auto;
 }
 
+#imgPhoto2
+{
+    width: 10%;
+    margin: 5 auto;
+}
 
 #imgPhotosub
 {
