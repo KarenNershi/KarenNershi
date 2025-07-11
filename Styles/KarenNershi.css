@@ -160,6 +160,7 @@ html, body, {
 
 .SectionSubtitle
 {
+    display: block;
     text-align: center;
     color: #808080;
     font-size: 15px;
